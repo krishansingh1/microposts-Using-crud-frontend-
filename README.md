@@ -15,4 +15,8 @@ Microposts is a app to create a post or add your thoughts just like twitter. Thi
  As this app backend is created using json-server we have to start a json server to run the various funconalities of app.
   
   So, start json server using command: npm run json:server in your terminal.
+  
+  So there you go now you can post the posts, delete them or update them in real time.
+  
+  ## Thanks!!
 
