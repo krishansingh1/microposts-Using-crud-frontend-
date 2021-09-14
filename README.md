@@ -6,5 +6,13 @@ Microposts is a app to create a post or add your thoughts just like twitter. Thi
 
 ## Getting Started with the Microposts Project
 
-<h4> Step 1<h4>
+<h4>Step 1:<h4>
+  
+ Clone the app or pull, then open the code in VS code, then open it with live server. 
+  
+<h4> Step 2: <h4>
+  
+ As this app backend is created using json-server we have to start a json server to run the various funconalities of app.
+  
+  So, start json server using command: npm run json:server in your terminal.
 
